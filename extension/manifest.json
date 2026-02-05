@@ -3,7 +3,7 @@
     "name": "Proxy Inspector",
     "version": "1.0.0",
     "description": "Lightweight one-click proxy switcher. Manage and switch between multiple proxy configurations instantly.",
-    "author": "Ruturaj",
+    "author": "Ruturaj Sharbidre",
     "permissions": [
         "proxy",
         "storage",

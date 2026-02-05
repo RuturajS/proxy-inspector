@@ -1,0 +1,53 @@
+# Proxy Inspector - .gitignore
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Extension Package
+*.zip
+*.crx
+*.pem
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# Node modules (if using build tools in future)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build output (if adding build process)
+dist/
+build/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*.bak
+*.backup
